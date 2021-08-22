@@ -1,13 +1,4 @@
-/*
- * File:traffic light
- * Author1: DUSABIMANA Arthur junior 218005602
- * Author2: NSABIMANA Emmanuel       218006844
- * Created on july 15, 2021, 7:56 PM
- */
-
-
-
-// CONFIG
+// CONFIGURATION
 #pragma config FOSC = XT        // Oscillator Selection bits (XT oscillator)
 #pragma config WDTE = OFF       // Watchdog Timer Enable bit (WDT disabled)
 #pragma config PWRTE = ON       // Power-up Timer Enable bit (PWRT enabled)
